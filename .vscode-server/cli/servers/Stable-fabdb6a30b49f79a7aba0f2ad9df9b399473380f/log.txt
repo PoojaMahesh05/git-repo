@@ -21,3 +21,10 @@ Extension host agent listening on /tmp/code-dd66822c-d2c5-42f0-89fa-24cc8591b68a
 [10:00:56] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Launched Extension Host Process.
 New EH opened, aborting shutdown
 [10:05:55] New EH opened, aborting shutdown
+[10:12:15] [<unknown>][e359952e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:12:15] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[10:12:15] Last EH closed, waiting before shutting down
+[10:12:22] [<unknown>][e1f5533b][ExtensionHostConnection] New connection established.
+[10:12:22] [<unknown>][e1f5533b][ExtensionHostConnection] <2998> Launched Extension Host Process.
+[10:12:22] [<unknown>][53c8246d][ManagementConnection] New connection established.

@@ -10,3 +10,23 @@
 2024-12-23 10:00:56.603 [info] [<unknown>][e359952e][ManagementConnection] New connection established.
 2024-12-23 10:00:56.687 [info] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Launched Extension Host Process.
 2024-12-23 10:05:55.983 [info] New EH opened, aborting shutdown
+2024-12-23 10:12:15.041 [info] [<unknown>][e359952e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:12:15.073 [info] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:12:15.073 [info] Last EH closed, waiting before shutting down
+2024-12-23 10:12:22.348 [info] [<unknown>][e1f5533b][ExtensionHostConnection] New connection established.
+2024-12-23 10:12:22.353 [info] [<unknown>][e1f5533b][ExtensionHostConnection] <2998> Launched Extension Host Process.
+2024-12-23 10:12:22.360 [info] [<unknown>][53c8246d][ManagementConnection] New connection established.
+2024-12-23 10:12:59.452 [info] [<unknown>][9e194e7b][ExtensionHostConnection] New connection established.
+2024-12-23 10:12:59.455 [info] [<unknown>][edd8055f][ManagementConnection] New connection established.
+2024-12-23 10:12:59.459 [info] [<unknown>][9e194e7b][ExtensionHostConnection] <3193> Launched Extension Host Process.
+2024-12-23 10:12:59.465 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/server-main.js:184:1060)
+    at process.emit (node:events:530:35)
+2024-12-23 10:13:07.356 [info] [<unknown>][edd8055f][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:13:07.381 [info] [<unknown>][9e194e7b][ExtensionHostConnection] <3193> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:13:07.381 [info] Cancelling previous shutdown timeout
+2024-12-23 10:13:18.303 [info] [<unknown>][c860a285][ExtensionHostConnection] New connection established.
+2024-12-23 10:13:18.306 [info] [<unknown>][c860a285][ExtensionHostConnection] <3321> Launched Extension Host Process.
+2024-12-23 10:13:18.311 [info] [<unknown>][d3abc222][ManagementConnection] New connection established.
+2024-12-23 10:13:20.501 [info] [<unknown>][53c8246d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:13:20.650 [info] [<unknown>][e1f5533b][ExtensionHostConnection] <2998> Extension Host Process exited with code: 0, signal: null.
