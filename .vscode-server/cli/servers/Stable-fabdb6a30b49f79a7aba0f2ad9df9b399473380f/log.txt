@@ -5,26 +5,24 @@
 * the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
 * the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
 *
-Server bound to /tmp/code-dd66822c-d2c5-42f0-89fa-24cc8591b68a
-Extension host agent listening on /tmp/code-dd66822c-d2c5-42f0-89fa-24cc8591b68a
+Server bound to /tmp/code-3c59614d-9f98-4d8f-9799-7153de8c7487
+Extension host agent listening on /tmp/code-3c59614d-9f98-4d8f-9799-7153de8c7487
 
-[10:00:55] 
-
-
+[10:40:26] 
 
 
-[10:00:55] Extension host agent started.
-[10:00:56] Started initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
-[10:00:56] Completed initializing default profile extensions in extensions installation folder. file:///home/ubuntu/.vscode-server/extensions
-[10:00:56] [<unknown>][ee70b02e][ExtensionHostConnection] New connection established.
-[10:00:56] [<unknown>][e359952e][ManagementConnection] New connection established.
-[10:00:56] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Launched Extension Host Process.
-New EH opened, aborting shutdown
-[10:05:55] New EH opened, aborting shutdown
-[10:12:15] [<unknown>][e359952e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[10:12:15] [<unknown>][ee70b02e][ExtensionHostConnection] <1343> Extension Host Process exited with code: 0, signal: null.
+
+
+[10:40:26] Extension host agent started.
+[10:40:27] [<unknown>][11a9acd2][ExtensionHostConnection] New connection established.
+[10:40:27] [<unknown>][ba8fd3fa][ManagementConnection] New connection established.
+[10:40:27] [<unknown>][11a9acd2][ExtensionHostConnection] <856> Launched Extension Host Process.
+[10:40:41] [<unknown>][ba8fd3fa][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[10:40:41] [<unknown>][11a9acd2][ExtensionHostConnection] <856> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[10:40:41] Cancelling previous shutdown timeout
 Last EH closed, waiting before shutting down
-[10:12:15] Last EH closed, waiting before shutting down
-[10:12:22] [<unknown>][e1f5533b][ExtensionHostConnection] New connection established.
-[10:12:22] [<unknown>][e1f5533b][ExtensionHostConnection] <2998> Launched Extension Host Process.
-[10:12:22] [<unknown>][53c8246d][ManagementConnection] New connection established.
+[10:40:41] Last EH closed, waiting before shutting down
+[10:40:53] [<unknown>][296c2c93][ManagementConnection] New connection established.
+[10:40:53] [<unknown>][b5b87702][ExtensionHostConnection] New connection established.
+[10:40:53] [<unknown>][b5b87702][ExtensionHostConnection] <994> Launched Extension Host Process.

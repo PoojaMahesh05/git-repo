@@ -30,3 +30,48 @@
 2024-12-23 10:13:18.311 [info] [<unknown>][d3abc222][ManagementConnection] New connection established.
 2024-12-23 10:13:20.501 [info] [<unknown>][53c8246d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
 2024-12-23 10:13:20.650 [info] [<unknown>][e1f5533b][ExtensionHostConnection] <2998> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:35:52.882 [info] [<unknown>][d3abc222][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:35:52.946 [info] [<unknown>][c860a285][ExtensionHostConnection] <3321> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:35:52.946 [info] Last EH closed, waiting before shutting down
+2024-12-23 10:36:16.314 [info] [<unknown>][0d059dd5][ExtensionHostConnection] New connection established.
+2024-12-23 10:36:16.317 [info] [<unknown>][0d059dd5][ExtensionHostConnection] <6143> Launched Extension Host Process.
+2024-12-23 10:36:16.322 [info] [<unknown>][3bd28e1c][ManagementConnection] New connection established.
+2024-12-23 10:36:26.690 [info] [<unknown>][3bd28e1c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:36:26.719 [info] [<unknown>][0d059dd5][ExtensionHostConnection] <6143> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:36:26.719 [info] Cancelling previous shutdown timeout
+2024-12-23 10:36:26.719 [info] Last EH closed, waiting before shutting down
+2024-12-23 10:36:38.072 [info] [<unknown>][50fe8170][ExtensionHostConnection] New connection established.
+2024-12-23 10:36:38.073 [info] [<unknown>][1814b848][ManagementConnection] New connection established.
+2024-12-23 10:36:38.077 [info] [<unknown>][50fe8170][ExtensionHostConnection] <6300> Launched Extension Host Process.
+2024-12-23 10:36:52.786 [error] CodeExpectedError: Could not find pty 29 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateIcon (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7772)
+    at N.s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-23 10:36:52.789 [error] CodeExpectedError: Could not find pty 29 on pty host
+    at I.W (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:12233)
+    at I.updateTitle (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:7722)
+    at N.s.<computed> (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:48:2962)
+    at Object.call (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:31:4203)
+    at Jc.s (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78968)
+    at Jc.q (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:78491)
+    at us.value (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:77893)
+    at C.B (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:746)
+    at C.fire (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:29:964)
+    at process.w (file:///home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/server/out/vs/platform/terminal/node/ptyHostMain.js:24:29142)
+    at process.emit (node:events:518:28)
+    at emit (node:internal/child_process:950:14)
+    at process.processTicksAndRejections (node:internal/process/task_queues:83:21)
+2024-12-23 10:37:28.487 [info] [<unknown>][1814b848][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-23 10:37:28.540 [info] [<unknown>][50fe8170][ExtensionHostConnection] <6300> Extension Host Process exited with code: 0, signal: null.
+2024-12-23 10:37:28.541 [info] Cancelling previous shutdown timeout
+2024-12-23 10:37:28.541 [info] Last EH closed, waiting before shutting down
