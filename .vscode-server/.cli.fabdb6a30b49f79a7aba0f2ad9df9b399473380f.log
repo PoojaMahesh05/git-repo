@@ -1,4 +1,4 @@
-Listening on 127.0.0.1:38887
-[2024-12-23 10:49:38] info Disposed of connection to running server.
-[2024-12-23 10:49:42] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
-[2024-12-23 10:49:42] info Found running server (pid=824)
+Listening on 127.0.0.1:40395
+[2024-12-23 10:54:47] info Disposed of connection to running server.
+[2024-12-23 10:54:51] info Checking /home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/ubuntu/.vscode-server/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-23 10:54:51] info Found running server (pid=824)
